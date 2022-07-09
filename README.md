@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1RFdvnR-Kee2yaw1v-sKunKEWZ4BPiR2c/view?usp=shari
 - Open the project in Netbeans 8.2.
 - Download mysql-connector-5.1.40.jar on your PC/Laptop and add it to Libraries in your project.
 - Open Xampp and start Apache & MySQL. Then click on Admin next to mysql.
-- Download and import the database file in phpmyadmin ( database file is provided in the files of the project : https://github.com/Kevin-Menezes/Notes-Academy/blob/main/notesacademydb.sql )
+- Download and import the database file in phpmyadmin ( database file is provided in the files of the project : https://github.com/Kevin-Menezes/Market-77/blob/main/market77.sql )
 - Build and run the project in Netbeans.
 - Now you can follow the video and navigate through the project.
 
