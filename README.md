@@ -33,3 +33,31 @@ https://drive.google.com/file/d/1RFdvnR-Kee2yaw1v-sKunKEWZ4BPiR2c/view?usp=shari
 
 ### Q. What features does this app have?
 - Dynamic app - Everything is linked to the database.
+- Validation - Every form is validated properly.
+- Availability check - Checks if the product is in stock or not
+
+<br/>
+<hr>
+
+# ❓How to install and run this project
+- You'll need Netbeans 8.2, JDK 8 and Xampp downloaded on your PC/Laptop to run this project.
+- Download the project files on your PC/Laptop.
+- Open the project in Netbeans 8.2.
+- Download mysql-connector-5.1.40.jar on your PC/Laptop and add it to Libraries in your project.
+- Open Xampp and start Apache & MySQL. Then click on Admin next to mysql.
+- Download and import the database file in phpmyadmin ( database file is provided in the files of the project : https://github.com/Kevin-Menezes/Notes-Academy/blob/main/notesacademydb.sql )
+- Build and run the project in Netbeans.
+- Now you can follow the video and navigate through the project.
+
+<br/>
+<hr>
+
+# ⚖License
+Distributed under the Apache 2.0 License. See `LICENSE.md` for more information.
+
+<br/>
+<hr>
+
+# ✔References
+* [Youtube - Bro Code : Java GUI](https://www.youtube.com/watch?v=Kmgo00avvEw)
+* [Google](https://www.google.com/)
