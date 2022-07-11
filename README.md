@@ -7,7 +7,7 @@ An ecommerce grocery java swing app that can be used to buy and sell products wh
 
 # ▶Project video
 This video will show you the working of the website and will guide you on how to use it.
-https://drive.google.com/file/d/1RFdvnR-Kee2yaw1v-sKunKEWZ4BPiR2c/view?usp=sharing
+https://drive.google.com/file/d/1QHC7g1_SLSSR6JwlRZl1qZka5aNZJ7v3/view?usp=sharing
 
 <img alt="Home.java" src="https://github.com/Kevin-Menezes/Market-77/blob/main/HomePage.jpg">
 <img alt="Daily Staples.java" src="https://github.com/Kevin-Menezes/Market-77/blob/main/DailyStaples.jpg">
