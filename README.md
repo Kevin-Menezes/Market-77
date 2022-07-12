@@ -1,6 +1,6 @@
 # 🛒Market 77 Java Swing App
 
-An ecommerce grocery java swing app that can be used to buy and sell products which are divided into various categories 🛒
+A dynamic ecommerce grocery java swing app that can be used to buy and sell products which are divided into various categories 🛒
 
 <br/>
 <hr>
